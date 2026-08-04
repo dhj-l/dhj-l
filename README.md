@@ -14,9 +14,18 @@
 ## 📌 Pinned · 我参与的开源
 
 <div align="center">
-<a href="https://github.com/dhj-l/workflow"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=workflow&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="workflow" /></a><a href="https://github.com/dhj-l/interview-ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=interview-ai&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="interview-ai" /></a><br/>
-<a href="https://github.com/dhj-l/rag"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=rag&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="rag" /></a><a href="https://github.com/dhj-l/hello-agents"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=hello-agents&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="hello-agents" /></a><br/>
-<a href="https://github.com/dhj-l/resume"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=resume&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="resume" /></a><a href="https://github.com/dhj-l/harness"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhj-l&amp;repo=harness&amp;theme=radical&amp;bg_color=0D1117&amp;title_color=00E5FF&amp;icon_color=FF00AA&amp;hide_border=true&amp;description_lines_count=2" alt="harness" /></a>
+
+> 🤝 这些是我在活跃参与或深度使用的开源社区项目
+
+| 仓库 | 描述 | 语言 | ⭐ Stars | 🍴 Forks |
+| --- | --- | --- | --- | --- |
+| [element-plus/element-plus](https://github.com/element-plus/element-plus) | A Vue.js 3 UI Library made by Element team | TypeScript | 27.7k | 19.8k |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek-native AI coding agent for your terminal | Go | 30.2k | 1.9k |
+| [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) | The fastest and simplest library for SQLite3 in Node.js | JavaScript | 7.4k | 473 |
+| [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) | A Vue3.x UI components lib for TDesign | TypeScript | 2.2k | 633 |
+| [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) | Enterprise-level AI component library front-end solution | Vue | 1.5k | 195 |
+| [Versakit/Versakit-Vue](https://github.com/Versakit/Versakit-Vue) | A Vue3 component library that supports the desktop | TypeScript | 118 | 16 |
+
 </div>
 
 ---
